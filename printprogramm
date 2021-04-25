@@ -1,0 +1,2 @@
+str = "This is the print string"
+print(str)
